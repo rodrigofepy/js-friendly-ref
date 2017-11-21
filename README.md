@@ -1,1 +1,1 @@
-# js-friendly-ref
+# Javascript friendly reference
